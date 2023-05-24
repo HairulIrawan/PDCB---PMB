@@ -1,47 +1,47 @@
-*{
-    font-family: "Roboto";
+* {
+  font-family: "Roboto";
 }
-nav li{
-    display: inline-block;
-    margin-left: 70px;
-    padding-top: 2px;  
-    position: relative;
-    padding-right: 0.1rem;
-    margin-right: 50px;
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 2px;
+  position: relative;
+  padding-right: 0.1rem;
+  margin-right: 50px;
 }
 input {
-    width: 165px;
+  width: 165px;
 }
-section{
-    width: 700px;
+section {
+  width: 700px;
 }
-section div{
-    width: 400px;
-    height: auto;
+section div {
+  width: 400px;
+  height: auto;
 }
-section div h1{
-    text-align: center;
+section div h1 {
+  text-align: center;
 }
 textarea {
-    width: 220px;
-    height: 100px;
+  width: 220px;
+  height: 100px;
 }
-section aside{
-    position:absolute; 
-    left:1000px; 
-    top:58px;
-    margin-left: 60px;
-    border-bottom: thin solid black;
-    border-left: thin solid black;
-    border-top: thin solid black;
-    border-right: thin solid black;
+section aside {
+  position: absolute;
+  left: 1000px;
+  top: 58px;
+  margin-left: 60px;
+  border-bottom: thin solid black;
+  border-left: thin solid black;
+  border-top: thin solid black;
+  border-right: thin solid black;
 }
-section aside div{
-    margin-left: 27.5px;
-    margin-right: 22px;
+section aside div {
+  margin-left: 27.5px;
+  margin-right: 22px;
 }
-footer{
-    margin: auto;
-    width: 50%;
-    text-align: center;
+footer {
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
