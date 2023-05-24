@@ -1,13 +1,23 @@
 *{
     font-family: "Roboto";
 }
-header{
-    border-radius: 10px;
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 2px;  
+    position: relative;
+    padding-right: 0.1rem;
+    margin-right: 50px;
+}
+input {
+    width: 165px;
 }
 textarea {
     width: 220px;
     height: 100px;
 }
 footer{
-    
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }
