@@ -12,9 +12,30 @@ nav li{
 input {
     width: 165px;
 }
+section{
+    width: 700px;
+}
+section div{
+    width: 400px;
+    height: auto;
+}
+section div h1{
+    text-align: center;
+}
 textarea {
     width: 220px;
     height: 100px;
+}
+section aside{
+    position:absolute; 
+    left:1000px; 
+    top:53px;
+    margin-left: 50px;
+    border-left: thin solid black;
+    border-bottom: thin solid black;
+}
+section aside div{
+    margin-left: 37.5px;
 }
 footer{
     margin: auto;
