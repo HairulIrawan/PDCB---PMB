@@ -29,13 +29,16 @@ textarea {
 section aside{
     position:absolute; 
     left:1000px; 
-    top:53px;
-    margin-left: 50px;
-    border-left: thin solid black;
+    top:58px;
+    margin-left: 60px;
     border-bottom: thin solid black;
+    border-left: thin solid black;
+    border-top: thin solid black;
+    border-right: thin solid black;
 }
 section aside div{
-    margin-left: 37.5px;
+    margin-left: 27.5px;
+    margin-right: 22px;
 }
 footer{
     margin: auto;
